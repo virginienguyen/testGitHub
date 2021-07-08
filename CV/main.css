@@ -1,3 +1,16 @@
+body {
+    margin: 0px;
+  }
+  
+.cv_backgound {
+    width: 100%;
+    background-image: url(img/patate_homepage.svg);
+    height: 1080px;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+  }
+  
 .navbar-nav {
 font-family: 'Source Sans Pro', sans-serif;
 color: #8e8e8e;
@@ -11,3 +24,4 @@ font-size: 15px;
     line-height: 40px;
     color: black;
 }
+
